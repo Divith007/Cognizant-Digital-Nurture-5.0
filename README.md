@@ -35,19 +35,3 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 18  | Data Structures & Algorithms | Financial Forecasting               | ⏳ Pending   |
 
 ---
-
-## 📈 Progress Summary
-
-| Category                     | Total  | Completed | Pending |
-| ---------------------------- | ------ | --------- | ------- |
-| Design Patterns & Principles | 11     | 3         | 8       |
-| Data Structures & Algorithms | 7      | 0         | 7       |
-| **Overall**                  | **18** | **3**     | **15**  |
-
-### Completion Percentage
-
-[
-\text{Progress} = \frac{3}{18} \times 100 = 16.67%
-]
-
-**Current Progress: 16.67%**
