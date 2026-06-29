@@ -18,20 +18,20 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 1   | Design Patterns & Principles | Singleton Pattern                   | ✅ Completed |
 | 2   | Design Patterns & Principles | Factory Method Pattern              | ✅ Completed |
 | 3   | Design Patterns & Principles | Builder Pattern                     | ✅ Completed |
-| 4   | Design Patterns & Principles | Adapter Pattern                     | ✅ Completed  |
-| 5   | Design Patterns & Principles | Decorator Pattern                   | ✅ Completed  |
-| 6   | Design Patterns & Principles | Proxy Pattern                       | ✅ Completed   |
-| 7   | Design Patterns & Principles | Observer Pattern                    | ✅ Completed  |
-| 8   | Design Patterns & Principles | Strategy Pattern                    | ✅ Completed   |
-| 9   | Design Patterns & Principles | Command Pattern                     | ✅ Completed   |
-| 10  | Design Patterns & Principles | MVC Pattern                         | ✅ Completed   |
+| 4   | Design Patterns & Principles | Adapter Pattern                     | ✅ Completed |
+| 5   | Design Patterns & Principles | Decorator Pattern                   | ✅ Completed |
+| 6   | Design Patterns & Principles | Proxy Pattern                       | ✅ Completed |
+| 7   | Design Patterns & Principles | Observer Pattern                    | ✅ Completed |
+| 8   | Design Patterns & Principles | Strategy Pattern                    | ✅ Completed |
+| 9   | Design Patterns & Principles | Command Pattern                     | ✅ Completed |
+| 10  | Design Patterns & Principles | MVC Pattern                         | ✅ Completed |
 | 11  | Design Patterns & Principles | Dependency Injection                | ✅ Completed |
-| 12  | Data Structures & Algorithms | Inventory Management System         | ⏳ Pending   |
-| 13  | Data Structures & Algorithms | E-commerce Platform Search Function | ⏳ Pending   |
-| 14  | Data Structures & Algorithms | Sorting Customer Orders             | ⏳ Pending   |
-| 15  | Data Structures & Algorithms | Employee Management System          | ⏳ Pending   |
-| 16  | Data Structures & Algorithms | Task Management System              | ⏳ Pending   |
-| 17  | Data Structures & Algorithms | Library Management System           | ⏳ Pending   |
-| 18  | Data Structures & Algorithms | Financial Forecasting               | ⏳ Pending   |
+| 12  | Data Structures & Algorithms | Inventory Management System         | ✅ Completed |
+| 13  | Data Structures & Algorithms | E-commerce Platform Search Function | ✅ Completed |
+| 14  | Data Structures & Algorithms | Sorting Customer Orders             | ✅ Completed |
+| 15  | Data Structures & Algorithms | Employee Management System          | ✅ Completed |
+| 16  | Data Structures & Algorithms | Task Management System              | ✅ Completed |
+| 17  | Data Structures & Algorithms | Library Management System           | ✅ Completed |
+| 18  | Data Structures & Algorithms | Financial Forecasting               | ✅ Completed |
 
 ---
