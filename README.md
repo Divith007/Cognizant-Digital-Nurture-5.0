@@ -40,6 +40,5 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | JUnit_Basic Testing Exercises| Exercise 1,2,3,4                    | ✅ Completed |
-| 2   | Design Patterns & Principles | Factory Method Pattern              | ✅ Completed |
 
 ---
