@@ -47,5 +47,5 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
-| 1   | ControL Structures| Exercise 1[Scenario 1, Scenario 2, Scenario 3  | ✅ Completed|
+| 1   | Control Structures| Exercise 1[Scenario 1, Scenario 2, Scenario 3  | ✅ Completed|
 ---
