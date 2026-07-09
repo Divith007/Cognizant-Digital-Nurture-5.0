@@ -43,3 +43,9 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 2   | JUnit_Advance Testing Exercises| Exercise 1,2,3,4,5                    | ✅ Completed |
 
 ---
+## PL/SQL Language
+
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | ControL Structures| Exercise 1[Scenario 1, Scenario 2, Scenario 3  | ✅ Completed|
+---
