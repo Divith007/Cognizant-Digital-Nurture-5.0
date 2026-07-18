@@ -41,6 +41,8 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | JUnit_Basic Testing Exercises| Exercise 1,2,3,4                    | ✅ Completed |
 | 2   | JUnit_Advance Testing Exercises| Exercise 1,2,3,4,5                    | ✅ Completed |
+| 3   | Mockito Exercises | Exercise 1,2,3,4,5,6,7                   | ✅ Completed |
+| 4   | Mockito Advanced Exercise Exercise 1,2,3,4,5                    | ✅ Completed |
 
 ---
 ## PL/SQL Language
@@ -48,4 +50,12 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | Control Structures| Exercise 1 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
+---
+
+## React
+
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | ReactJS-HOL 1| N/A  | ✅ Completed|
+| 2   | ReactJS-HOL 2| N/A  | ✅ Completed|
 ---
