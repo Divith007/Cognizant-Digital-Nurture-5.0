@@ -58,4 +58,7 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | ReactJS-HOL 1| N/A  | ✅ Completed|
 | 2   | ReactJS-HOL 2| N/A  | ✅ Completed|
+| 3   | ReactJS-HOL 3| N/A  | ✅ Completed|
+| 4   | ReactJS-HOL 4| N/A  | ✅ Completed|
+| 5   | ReactJS-HOL 5| N/A  | ✅ Completed|
 ---
