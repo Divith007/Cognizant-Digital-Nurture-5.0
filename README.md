@@ -50,6 +50,8 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | Control Structures| Exercise 1 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
+| 2   | Error Handling | Exercise 2 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
+| 3   | Stored Procedures| Exercise 3 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
 ---
 
 ## React (Manadatory Hands-On)
