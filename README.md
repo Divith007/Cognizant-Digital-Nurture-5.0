@@ -43,6 +43,7 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 2   | JUnit_Advance Testing Exercises| Exercise 1,2,3,4,5                    | ✅ Completed |
 | 3   | Mockito Exercises | Exercise 1,2,3,4,5,6,7                   | ✅ Completed |
 | 4   | Mockito Advanced |Exercise Exercise 1,2,3,4,5                    | ✅ Completed |
+| 6   | SL4J Logging exercises |Exercise Exercise 1,2,3                    | ✅ Completed |
 
 ---
 ## PL/SQL Language
