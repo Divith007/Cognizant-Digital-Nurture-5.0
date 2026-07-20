@@ -65,7 +65,7 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 4   | Creating and Configuring a Maven Project | Exercise 4   | ✅ Completed|
 ---
 
-## React (Manadatory Hands-On)
+## React
 
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
