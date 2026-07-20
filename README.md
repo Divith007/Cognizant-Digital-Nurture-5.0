@@ -63,6 +63,16 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 2   | Implementing Dependency Injection | Exercise 2   | ✅ Completed|
 | 3   | Implementing  Logging with Spring AOP | Exercise 3   | ✅ Completed|
 | 4   | Creating and Configuring a Maven Project | Exercise 4   | ✅ Completed|
+
+---
+## Spring Data JPA with Hibernate
+
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | Spring Data JPA | Hands On 1   | ✅ Completed|
+| 2   | Hibernate XML Config Implementation Walkthrough  | Hands On 2   | ✅ Completed|
+| 3   | Hibernate Annotation Config Walkthrough  | Hands On 3  | ✅ Completed|
+| 4   | Difference between JPA, Hibernate and Spring Data JPA  | Hands On 4   | ✅ Completed|
 ---
 
 ## React
