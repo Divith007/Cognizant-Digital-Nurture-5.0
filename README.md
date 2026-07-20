@@ -53,6 +53,16 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 1   | Control Structures| Exercise 1 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
 | 2   | Error Handling | Exercise 2 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
 | 3   | Stored Procedures| Exercise 3 [Scenario 1, Scenario 2, Scenario 3]  | ✅ Completed|
+
+---
+## Spring Core Maven
+
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | Configuring Basic Spring Application | Exercise 1   | ✅ Completed|
+| 2   | Implementing Dependency Injection | Exercise 2   | ✅ Completed|
+| 3   | Implementing  Logging with Spring AOP | Exercise 3   | ✅ Completed|
+| 4   | Creating and Configuring a Maven Project | Exercise 4   | ✅ Completed|
 ---
 
 ## React (Manadatory Hands-On)
