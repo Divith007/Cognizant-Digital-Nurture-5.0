@@ -77,7 +77,7 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 ---
 ## Spring REST using Spring Boot
 
-### 1. spring-rest-handson 
+### File Name: 1. spring-rest-handson 
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
 | 1   | Create a Spring Web Project using Maven  | Hands On 1   | ✅ Completed|
