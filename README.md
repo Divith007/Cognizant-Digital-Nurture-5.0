@@ -96,7 +96,14 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 ### File Name: 5. JWT-handson
 | No. | Category                     | Exercise                            | Status      |
 | --- | ---------------------------- | ----------------------------------- | ----------- |
-| N/A   | Create authentication service that returns JWT    | N/A   | ✅ Completed|
+| 1   | Create authentication service that returns JWT    | N/A   | ✅ Completed|
+---
+
+## Microservices
+### File Name: Microservices with API Gateway
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | Creating Microservices for account and loan | N/A  | ✅ Completed|
 
 ---
 
