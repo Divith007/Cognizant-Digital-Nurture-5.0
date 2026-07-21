@@ -73,6 +73,31 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 2   | Hibernate XML Config Implementation Walkthrough  | Hands On 2   | ✅ Completed|
 | 3   | Hibernate Annotation Config Walkthrough  | Hands On 3  | ✅ Completed|
 | 4   | Difference between JPA, Hibernate and Spring Data JPA  | Hands On 4   | ✅ Completed|
+
+---
+## Spring REST using Spring Boot
+
+### 1. spring-rest-handson 
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | Create a Spring Web Project using Maven  | Hands On 1   | ✅ Completed|
+| 2   | Load SimpleDateFormat from Spring Configuration XML | Hands On 2   | ✅ Completed|
+| 3   | Incorporate Logging  | Hands On 3  | ✅ Completed|
+| 4   | Load Country from Spring Configuration XML  | Hands On 4   | ✅ Completed|
+
+### File Name: 2. spring-rest-handson 
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 2   | Hello World RESTful Web Service   | Hands On 2   | ✅ Completed|
+| 3   | REST - Country Web Service  | Hands On 3   | ✅ Completed|
+| 4   | REST - Get all countries   | Hands On 4  | ✅ Completed|
+| 5   | REST - Get country based on country code  | Hands On 5   | ✅ Completed|
+
+### File Name: 5. JWT-handson
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| N/A   | Create authentication service that returns JWT    | N/A   | ✅ Completed|
+
 ---
 
 ## React
