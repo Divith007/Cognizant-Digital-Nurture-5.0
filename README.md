@@ -125,3 +125,14 @@ This repository is created as part of the Cognizant Digital Nurture 5.0 learning
 | 12   | ReactJS-HOL 12| N/A  | ✅ Completed|
 | 13   | ReactJS-HOL 13| N/A  | ✅ Completed|
 ---
+## React
+
+| No. | Category                     | Exercise                            | Status      |
+| --- | ---------------------------- | ----------------------------------- | ----------- |
+| 1   | Git-HOL 1| N/A  | ✅ Completed|
+| 2   | Git-HOL 2| N/A  | ✅ Completed|
+| 3   | Git-HOL 3| N/A  | ✅ Completed|
+| 4   | Git-HOL 4| N/A  | ✅ Completed|
+| 5   | Git-HOL 5| N/A  | ✅ Completed|
+
+---
